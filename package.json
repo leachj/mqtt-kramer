@@ -1,0 +1,14 @@
+{
+  "name": "mqtt-kramer",
+  "version": "1.0.0",
+  "description": "mqtt adapter for kramer protocol 2000 for control of HDMI 4x4 matrix",
+  "main": "mqtt-kramer.js",
+  "dependencies": {
+    "mqtt": "~0.3.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
